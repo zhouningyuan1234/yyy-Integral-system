@@ -18,6 +18,6 @@
 			蒋铭睿:0<br>
 			叹气1:0
 		</div>
-		<div>总部:<button title="back"><a href="https://zhouningyuan1234.github.io/as/">前往</a></button></div>
+		<div>总部:<button title="back"><a href="https://zhouningyuan1234.github.io/as/">返回</a></button></div>
 </body>
 </html>

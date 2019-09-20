@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>积分系统</title>
+	<title>xitong</title>
 	    <style type="text/css">
 		<!--
 			.blue{color:#0000FF}

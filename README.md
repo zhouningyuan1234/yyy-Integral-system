@@ -21,6 +21,6 @@
 			JOEzzc:0<br>
 			叹气1:0
 		</div>
-		<div>总部:<button title="back"><a href="https://zhouningyuan1234.github.io/yyytuandui/">返回</a></button></div>
+		<div>总部:<button title="back"><a href="https://zhouningyuan1234.github.io/yyytuandui/"><span class="purple">返回</span></a></button></div>
 </body>
 </html>

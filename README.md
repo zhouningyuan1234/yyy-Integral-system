@@ -12,7 +12,7 @@
 <body>
 		<h1><center>yyy的积分系统</center></h1>
 		<div class="宋体 blue">
-			zhouning:1钻石<br>
+			zhouning:10钻石<br>
 			jianmingrui:1货币<br>
 			安天行—5432:1货币<br>
 			魏大博:1货币<br>

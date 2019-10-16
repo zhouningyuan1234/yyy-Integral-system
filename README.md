@@ -21,6 +21,6 @@
 			JOEzzc:1货币<br>
 			叹气1:0积分
 		</div>
-		<div>总部:<button title="back"><a href="https://zhouningyuan1234.github.io/yyytuandui/"><span class="purple">返回</span></a></button></div>
+		<div>总部:<button title="back"><a href="https://zhouningyuan1234.github.io/yyy-Team-headquarters/"><span class="purple">返回</span></a></button></div>
 </body>
 </html>
